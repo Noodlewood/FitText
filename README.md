@@ -1,7 +1,7 @@
 # FitText
 
 - JQuery plugin
-- npm install fit-text
+- npm install fittext
 - usage:
 -   embed node_modules/hyphenation.de/node_modules/hypher/dist/jquery.hypher.js
 -   embed dist/de.js
